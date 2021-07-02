@@ -1,5 +1,5 @@
 # Frontend Mentor - Loopstudios landing page
-
+# Here is the live link of the project - https://deeppatel6128.github.io/loopstudios-landing-page-main/
 ![Design preview for the Loopstudios landing page coding challenge](./design/desktop-preview.jpg)
 
 ## Welcome! 👋
